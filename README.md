@@ -1,2 +1,2 @@
-# dynamic-swap
-Dynamic swap script to manage memory pressure on Linux.
+# dynamic-swap prototype
+Dynamic swap prototype script to manage memory pressure on Linux via a simulation.
